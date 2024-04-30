@@ -1,0 +1,1086 @@
+<http://num.edu.mn/resource/name/xn--___-iddd2asbeblehc1ble3ahca1b9jnb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ð£Ð»ÑÑ‹Ð½ Ð˜Ñ… Ð¡ÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/8155bc545f84d9652f1012ef2bdfb6eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-iddd2asbeblehc1ble3ahca1b9jnb> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ð£Ð»ÑÑ‹Ð½ Ð˜Ñ… Ð¡ÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--___-iddd2asbeblehc1ble3ahca1b9jnb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ð£Ð»ÑÑ‹Ð½ Ð˜Ñ… Ð¡ÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-iddd2asbeblehc1ble3ahca1b9jnb> .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/8155bc545f84d9652f1012ef2bdfb6eb> .
+
+<http://num.edu.mn/resource/name/xn--_-7sbaandhpcl2db7a9d2e8a33ma> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°Ð½Ñ‹ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbaandhpcl2db7a9d2e8a33ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-7sbaandhpcl2db7a9d2e8a33ma> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°Ð½Ñ‹ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbaandhpcl2db7a9d2e8a33ma> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°Ð½Ñ‹ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> .
+<http://num.edu.mn/resource/name/xn--__-7kcaccqcg3bzadeu6biblg4bcac4a1rc55xgaa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ò¯Ñ€ÑÐ»Ð´ÑÑ…Ò¯Ò¯Ð½/Ð¡Ð°Ð»Ð±Ð°Ñ€ ÑÑƒÑ€Ð³ÑƒÑƒÐ»Ð¸ÑƒÐ´"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ò¯Ñ€ÑÐ»Ð´ÑÑ…Ò¯Ò¯Ð½/Ð¡Ð°Ð»Ð±Ð°Ñ€ ÑÑƒÑ€Ð³ÑƒÑƒÐ»Ð¸ÑƒÐ´"@mn .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcaccqcg3bzadeu6biblg4bcac4a1rc55xgaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcaccqcg3bzadeu6biblg4bcac4a1rc55xgaa> .
+<http://num.edu.mn/resource/name/xn--__-7kcaccqcg3bzadeu6biblg4bcac4a1rc55xgaa> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ò¯Ñ€ÑÐ»Ð´ÑÑ…Ò¯Ò¯Ð½/Ð¡Ð°Ð»Ð±Ð°Ñ€ ÑÑƒÑ€Ð³ÑƒÑƒÐ»Ð¸ÑƒÐ´"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcaactdfcsp5eb0d5l47da> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ðµ Ð´Ð°Ð°ÑÐ°Ð½ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ðµ Ð´Ð°Ð°ÑÐ°Ð½ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/ed7bd5bccea3317f7fc60813a25363a2> .
+<http://num.edu.mn/resource/name/xn--__-7kcaactdfcsp5eb0d5l47da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kcaactdfcsp5eb0d5l47da> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸Ðµ Ð´Ð°Ð°ÑÐ°Ð½ Ð½ÑÐ³Ð¶Ò¯Ò¯Ð´"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcaactdfcsp5eb0d5l47da> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--____-3vedbcsdbe1b1addk6bhrmo2eya4acu0ch3a6czh26vxa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ð³ÑˆÐ¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð¸Ð», Ñ†Ð°Ñ…Ð¸Ð¼ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--____-3vedbcsdbe1b1addk6bhrmo2eya4acu0ch3a6czh26vxa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/4afd55157555bbff4c861e344b2af98f> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-3vedbcsdbe1b1addk6bhrmo2eya4acu0ch3a6czh26vxa> .
+<http://num.edu.mn/resource/organization/4afd55157555bbff4c861e344b2af98f> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ð³ÑˆÐ¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð¸Ð», Ñ†Ð°Ñ…Ð¸Ð¼ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/4afd55157555bbff4c861e344b2af98f> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--____-3vedbcsdbe1b1addk6bhrmo2eya4acu0ch3a6czh26vxa> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð°Ð³ÑˆÐ¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð¸Ð», Ñ†Ð°Ñ…Ð¸Ð¼ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/4afd55157555bbff4c861e344b2af98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/d3bce4526190b62e0e924b3bd3f9158b> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-5cdra9aitmgd8bgceid5c9a6jcd148aca> .
+<http://num.edu.mn/resource/organization/d3bce4526190b62e0e924b3bd3f9158b> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/d3bce4526190b62e0e924b3bd3f9158b> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð°Ð½, Ñ‚Ó©Ð³ÑÓ©Ð³Ñ‡Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cdra9aitmgd8bgceid5c9a6jcd148aca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-5cdra9aitmgd8bgceid5c9a6jcd148aca> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð°Ð½, Ñ‚Ó©Ð³ÑÓ©Ð³Ñ‡Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-5cdra9aitmgd8bgceid5c9a6jcd148aca> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð°Ð½, Ñ‚Ó©Ð³ÑÓ©Ð³Ñ‡Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/d3bce4526190b62e0e924b3bd3f9158b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/488fdb9c4b692880cd626a8ec344baaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/488fdb9c4b692880cd626a8ec344baaf> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+<http://num.edu.mn/resource/organization/488fdb9c4b692880cd626a8ec344baaf> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-8sb8adbcc1a1g> .
+<http://num.edu.mn/resource/organization/488fdb9c4b692880cd626a8ec344baaf> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-8sb8adbcc1a1g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-8sb8adbcc1a1g> <http://num.edu.mn/ontology#Entity_name> "ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+<http://num.edu.mn/resource/name/xn--_-8sb8adbcc1a1g> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+
+<http://num.edu.mn/resource/organization/c256a60843536bed8c2a1177cc34df02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/c256a60843536bed8c2a1177cc34df02> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/c256a60843536bed8c2a1177cc34df02> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c256a60843536bed8c2a1177cc34df02> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-cddk4ahkaedw8ajmeeh9cyicigc05v> <http://num.edu.mn/ontology#Entity_name> "Ð­Ð»ÑÑÐ»Ñ‚, Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-cddk4ahkaedw8ajmeeh9cyicigc05v> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-cddk4ahkaedw8ajmeeh9cyicigc05v> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð»ÑÑÐ»Ñ‚, Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð»ÑÑÐ»Ñ‚, Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/name/xn--__-cddk4ahkaedw8ajmeeh9cyicigc05v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--__-6kcbaaawzu7aafcpk4edo6bq2jm4cc> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð°Ð¼Ñ‚Ñ‹Ð½ Ð°Ð¶Ð¸Ð»Ð»Ð°Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/a376b647a995a568aed80e545765deed> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcbaaawzu7aafcpk4edo6bq2jm4cc> .
+<http://num.edu.mn/resource/organization/a376b647a995a568aed80e545765deed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a376b647a995a568aed80e545765deed> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð°Ð¼Ñ‚Ñ‹Ð½ Ð°Ð¶Ð¸Ð»Ð»Ð°Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcbaaawzu7aafcpk4edo6bq2jm4cc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð°Ð¼Ñ‚Ñ‹Ð½ Ð°Ð¶Ð¸Ð»Ð»Ð°Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcbaaawzu7aafcpk4edo6bq2jm4cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a376b647a995a568aed80e545765deed> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--__-6kcacaqcb0aqhbld2abmqk4everc1ia45w> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcacaqcb0aqhbld2abmqk4everc1ia45w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcacaqcb0aqhbld2abmqk4everc1ia45w> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcacaqcb0aqhbld2abmqk4everc1ia45w> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/05f3df6133eabca4591fe876108fd197> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ‚Ó©Ð»Ó©Ð²Ð»Ó©Ð»Ñ‚Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/05f3df6133eabca4591fe876108fd197> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--__-5cddalj1bglvbayi0dbxe9cw8ma90lbac> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ‚Ó©Ð»Ó©Ð²Ð»Ó©Ð»Ñ‚Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/05f3df6133eabca4591fe876108fd197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/05f3df6133eabca4591fe876108fd197> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-5cddalj1bglvbayi0dbxe9cw8ma90lbac> .
+<http://num.edu.mn/resource/name/xn--__-5cddalj1bglvbayi0dbxe9cw8ma90lbac> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ‚Ó©Ð»Ó©Ð²Ð»Ó©Ð»Ñ‚Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cddalj1bglvbayi0dbxe9cw8ma90lbac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/organization/d2cd9d0de87b7f1bbf6ad6a92119bdc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-hlccllbbjrecpe9a4aq6c6b4fcjafc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/d2cd9d0de87b7f1bbf6ad6a92119bdc2> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--__-hlccllbbjrecpe9a4aq6c6b4fcjafc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/d2cd9d0de87b7f1bbf6ad6a92119bdc2> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-hlccllbbjrecpe9a4aq6c6b4fcjafc> .
+<http://num.edu.mn/resource/organization/d2cd9d0de87b7f1bbf6ad6a92119bdc2> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-hlccllbbjrecpe9a4aq6c6b4fcjafc> <http://num.edu.mn/ontology#Entity_name> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+
+<http://num.edu.mn/resource/organization/7ccbf88161aca2fe74a10376ba813e2e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-8kcambdjwddievaejxceqb9c7a0fskba> .
+<http://num.edu.mn/resource/organization/7ccbf88161aca2fe74a10376ba813e2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/7ccbf88161aca2fe74a10376ba813e2e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--__-8kcambdjwddievaejxceqb9c7a0fskba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-8kcambdjwddievaejxceqb9c7a0fskba> <http://num.edu.mn/ontology#Entity_name> "ÐœÑÐ´ÑÑÐ»Ð»Ð¸Ð¹Ð½ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/7ccbf88161aca2fe74a10376ba813e2e> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÑÐ´ÑÑÐ»Ð»Ð¸Ð¹Ð½ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-8kcambdjwddievaejxceqb9c7a0fskba> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÑÐ´ÑÑÐ»Ð»Ð¸Ð¹Ð½ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+
+<http://num.edu.mn/resource/name/xn--___-43daaeawg3bkefbpc5edc7cs3hh5a34zt2ba> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°, Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/2b51359de22d00460ec822ceb5454d47> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43daaeawg3bkefbpc5edc7cs3hh5a34zt2ba> .
+<http://num.edu.mn/resource/organization/2b51359de22d00460ec822ceb5454d47> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°, Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43daaeawg3bkefbpc5edc7cs3hh5a34zt2ba> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°, Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/2b51359de22d00460ec822ceb5454d47> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/name/xn--___-43daaeawg3bkefbpc5edc7cs3hh5a34zt2ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/2b51359de22d00460ec822ceb5454d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/efd8bd64f19923ff9abab41952a73986> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑÐ½Ð°Ð»Ñ‚-Ð¨Ð¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ò¯Ð½ÑÐ»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn---__-43deahnc3axbepwedfxegc1i3c6d7gadca6b27x> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑÐ½Ð°Ð»Ñ‚-Ð¨Ð¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ò¯Ð½ÑÐ»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/efd8bd64f19923ff9abab41952a73986> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/efd8bd64f19923ff9abab41952a73986> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn---__-43deahnc3axbepwedfxegc1i3c6d7gadca6b27x> .
+<http://num.edu.mn/resource/organization/efd8bd64f19923ff9abab41952a73986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn---__-43deahnc3axbepwedfxegc1i3c6d7gadca6b27x> <http://num.edu.mn/ontology#Entity_name> "Ð¥ÑÐ½Ð°Ð»Ñ‚-Ð¨Ð¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ò¯Ð½ÑÐ»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn---__-43deahnc3axbepwedfxegc1i3c6d7gadca6b27x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/organization/6ae2ee9b3172446a71797b7869c940c9> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/6ae2ee9b3172446a71797b7869c940c9> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ó©Ñ‚Ó©Ð»Ð±Ó©Ñ€, Ñ‡Ð°Ð½Ð°Ñ€Ñ‹Ð½ Ð±Ð°Ñ‚Ð°Ð»Ð³Ð°Ð°Ð¶ÑƒÑƒÐ»Ð°Ð»Ñ‚Ñ‹Ð½ Ñ…ÑÐ»Ñ‚ÑÑ"@mn .
+<http://num.edu.mn/resource/organization/6ae2ee9b3172446a71797b7869c940c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--___-43ddakhfmjrsce3cgrhagqhb3hpya1cpk715c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/0c9e5807991edb0e24dad3c859a06f3a> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43ddakhfmjrsce3cgrhagqhb3hpya1cpk715c> .
+<http://num.edu.mn/resource/organization/0c9e5807991edb0e24dad3c859a06f3a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð˜Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸, Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸ Ð´Ð°Ð¼Ð¶ÑƒÑƒÐ»Ð°Ñ… Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--___-43ddakhfmjrsce3cgrhagqhb3hpya1cpk715c> <http://num.edu.mn/ontology#Entity_name> "Ð˜Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸, Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸ Ð´Ð°Ð¼Ð¶ÑƒÑƒÐ»Ð°Ñ… Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/0c9e5807991edb0e24dad3c859a06f3a> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> .
+<http://num.edu.mn/resource/organization/57b9cdfbafb42a79ef2c2afa8875bb9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/0c9e5807991edb0e24dad3c859a06f3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43ddakhfmjrsce3cgrhagqhb3hpya1cpk715c> <http://www.w3.org/2000/01/rdf-schema#label> "Ð˜Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸, Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸ Ð´Ð°Ð¼Ð¶ÑƒÑƒÐ»Ð°Ñ… Ñ‚Ó©Ð²"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-6kcalh4adjwpc6bfikxcax4e5ex6i> <http://num.edu.mn/ontology#Entity_name> "ÐÑ…Ð¸ÑÐ°Ð½ Ñ‚Ò¯Ð²ÑˆÐ½Ð¸Ð¹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcalh4adjwpc6bfikxcax4e5ex6i> .
+<http://num.edu.mn/resource/name/xn--__-6kcalh4adjwpc6bfikxcax4e5ex6i> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑ…Ð¸ÑÐ°Ð½ Ñ‚Ò¯Ð²ÑˆÐ½Ð¸Ð¹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcalh4adjwpc6bfikxcax4e5ex6i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑ…Ð¸ÑÐ°Ð½ Ñ‚Ò¯Ð²ÑˆÐ½Ð¸Ð¹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbahht7an2ajwcat9i> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ð²Ñ…Ð°Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--_-7sbahht7an2ajwcat9i> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ð²Ñ…Ð°Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--_-7sbahht7an2ajwcat9i> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ð²Ñ…Ð°Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--_-7sbahht7an2ajwcat9i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑƒÑƒÐ»ÑŒ Ð·Ò¯Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--__-ilcokjfn2ajpahcas6jm48p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/name/xn--__-ilcokjfn2ajpahcas6jm48p> <http://num.edu.mn/ontology#Entity_name> "Ð¥ÑƒÑƒÐ»ÑŒ Ð·Ò¯Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--__-ilcokjfn2ajpahcas6jm48p> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑƒÑƒÐ»ÑŒ Ð·Ò¯Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-ilcokjfn2ajpahcas6jm48p> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-9sbhgjfciuod1bie4aca7n> .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/name/xn--_-9sbhgjfciuod1bie4aca7n> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--_-9sbhgjfciuod1bie4aca7n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-9sbhgjfciuod1bie4aca7n> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÐ»Ð¾Ð½ ÑƒÐ»ÑÑ‹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°, Ð½Ð¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑƒÐ´Ð¸Ñ€Ð´Ð»Ð°Ð³Ñ‹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_-ftbb4ahqdhhmca2jbcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-ftbb4ahqdhhmca2jbcb> .
+<http://num.edu.mn/resource/name/xn--_-ftbb4ahqdhhmca2jbcb> <http://num.edu.mn/ontology#Entity_name> "Ð­Ñ€Ð´ÑÐ½ÑÑ‚ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--_-ftbb4ahqdhhmca2jbcb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ½ÑÑ‚ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ½ÑÑ‚ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/2001dd5d7506576d9133aec8a3c21210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2001dd5d7506576d9133aec8a3c21210> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/2001dd5d7506576d9133aec8a3c21210> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ð¹Ð³Ð°Ð»ÑŒ-Ð­Ñ… Ð›Ð¸Ñ†ÐµÐ¹ ÐÑ…Ð»Ð°Ñ… Ð¡ÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ, Ð­ÐºÐ¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð‘Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð»Ñ‹Ð½ Ð¢Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcaqnnzfmf1bmxfcayc6c6d4ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcaqnnzfmf1bmxfcayc6c6d4ag> .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¨Ð¸Ð½Ð¶Ð»ÑÑ… ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcaqnnzfmf1bmxfcayc6c6d4ag> <http://num.edu.mn/ontology#Entity_name> "Ð¨Ð¸Ð½Ð¶Ð»ÑÑ… ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/name/xn--__-7kcaqnnzfmf1bmxfcayc6c6d4ag> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¨Ð¸Ð½Ð¶Ð»ÑÑ… ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑÑ€ÑÐ³Ð»ÑÑÐ½Ð¸Ð¹ ÑˆÐ¸Ð½Ð¶Ð»ÑÑ… ÑƒÑ…Ð°Ð°Ð½, Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ ÑÑƒÑ€Ð³ÑƒÑƒÐ»ÑŒ"@mn .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/47ed62016b66cca6f6aae9f5b162738b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/d73e92cf7657493a58a414d5d1516696> <http://www.w3.org/2000/01/rdf-schema#label> "Ó¨Ð²Ó©Ñ€ Ð·Ð°Ð¹ÑÐ°Ð½ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/d73e92cf7657493a58a414d5d1516696> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/name/xn--____-53dabbaankgdn5b9a3bd6al2chudfzknh9w79pba3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--____-53dabbaankgdn5b9a3bd6al2chudfzknh9w79pba3a> <http://num.edu.mn/ontology#Entity_name> "Ó¨Ð²Ó©Ñ€ Ð·Ð°Ð¹ÑÐ°Ð½ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--____-53dabbaankgdn5b9a3bd6al2chudfzknh9w79pba3a> <http://www.w3.org/2000/01/rdf-schema#label> "Ó¨Ð²Ó©Ñ€ Ð·Ð°Ð¹ÑÐ°Ð½ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/d73e92cf7657493a58a414d5d1516696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d73e92cf7657493a58a414d5d1516696> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-53dabbaankgdn5b9a3bd6al2chudfzknh9w79pba3a> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/669f6183a25595a65e5a0c6bdffb3cc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/669f6183a25595a65e5a0c6bdffb3cc9> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--c1apce2fcb> .
+<http://num.edu.mn/resource/name/xn--c1apce2fcb> <http://num.edu.mn/ontology#Entity_name> "Ð­Ð¼Ð½ÑÐ»ÑÐ³"@mn .
+<http://num.edu.mn/resource/name/xn--c1apce2fcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/669f6183a25595a65e5a0c6bdffb3cc9> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð¼Ð½ÑÐ»ÑÐ³"@mn .
+<http://num.edu.mn/resource/name/xn--c1apce2fcb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð¼Ð½ÑÐ»ÑÐ³"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/669f6183a25595a65e5a0c6bdffb3cc9> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+
+<http://num.edu.mn/resource/organization/2dc6084b27f000147ee8b0025de5e48e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2dc6084b27f000147ee8b0025de5e48e> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcaaocg7abjc3aeemghc2dm8b2cwi4bab35y> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/2dc6084b27f000147ee8b0025de5e48e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcaaocg7abjc3aeemghc2dm8b2cwi4bab35y> .
+<http://num.edu.mn/resource/name/xn--__-7kcaaocg7abjc3aeemghc2dm8b2cwi4bab35y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kcaaocg7abjc3aeemghc2dm8b2cwi4bab35y> <http://num.edu.mn/ontology#Entity_name> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2dc6084b27f000147ee8b0025de5e48e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+
+<http://num.edu.mn/resource/organization/60780385a2a39fc032c1481afcc67b23> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/60780385a2a39fc032c1481afcc67b23> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/name/xn--__-7kckg4bcbbblhccc4bk0b6b0hybab16u> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/60780385a2a39fc032c1481afcc67b23> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kckg4bcbbblhccc4bk0b6b0hybab16u> .
+<http://num.edu.mn/resource/name/xn--__-7kckg4bcbbblhccc4bk0b6b0hybab16u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kckg4bcbbblhccc4bk0b6b0hybab16u> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ¾Ð½Ð³Ð¾Ð» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/60780385a2a39fc032c1481afcc67b23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_-mtbdbadeydc8bmbao92o> <http://www.w3.org/2000/01/rdf-schema#label> "ÐšÒ¯Ð½Ð·Ð¸Ð¹Ð½ Ð¸Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ‚"@mn .
+<http://num.edu.mn/resource/organization/99f6b092bcf56de37350128d2da296e2> <http://www.w3.org/2000/01/rdf-schema#label> "ÐšÒ¯Ð½Ð·Ð¸Ð¹Ð½ Ð¸Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ‚"@mn .
+<http://num.edu.mn/resource/organization/99f6b092bcf56de37350128d2da296e2> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/99f6b092bcf56de37350128d2da296e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-mtbdbadeydc8bmbao92o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/99f6b092bcf56de37350128d2da296e2> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-mtbdbadeydc8bmbao92o> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-mtbdbadeydc8bmbao92o> <http://num.edu.mn/ontology#Entity_name> "ÐšÒ¯Ð½Ð·Ð¸Ð¹Ð½ Ð¸Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ‚"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-7kcaanbchswmyf0ah5d0ak5a6l63mta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a0efde395be206dd4baab9bec39c7701> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcaanbchswmyf0ah5d0ak5a6l63mta> .
+<http://num.edu.mn/resource/organization/a0efde395be206dd4baab9bec39c7701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcaanbchswmyf0ah5d0ak5a6l63mta> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/a0efde395be206dd4baab9bec39c7701> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcaanbchswmyf0ah5d0ak5a6l63mta> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/a0efde395be206dd4baab9bec39c7701> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/e55c4dcd2516f872ee58f0bce9d0eb16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-eddecvqfeudyccca9akycd6eh5rab35y23b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/e55c4dcd2516f872ee58f0bce9d0eb16> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¢Ð¾Ð³Ñ‚Ð²Ð¾Ñ€Ñ‚Ð¾Ð¹ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/e55c4dcd2516f872ee58f0bce9d0eb16> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/name/xn--___-eddecvqfeudyccca9akycd6eh5rab35y23b> <http://num.edu.mn/ontology#Entity_name> "Ð¢Ð¾Ð³Ñ‚Ð²Ð¾Ñ€Ñ‚Ð¾Ð¹ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/name/xn--___-eddecvqfeudyccca9akycd6eh5rab35y23b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¢Ð¾Ð³Ñ‚Ð²Ð¾Ñ€Ñ‚Ð¾Ð¹ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/e55c4dcd2516f872ee58f0bce9d0eb16> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-eddecvqfeudyccca9akycd6eh5rab35y23b> .
+
+<http://num.edu.mn/resource/name/xn--___-7cdafkqbajwbdefg8aad3acccf4ab8bkc4d1ipi> <http://num.edu.mn/ontology#Entity_name> "Ð“ÐµÐ½Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ð»Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸"@mn .
+<http://num.edu.mn/resource/organization/e5b6078af7408e0342ae4f133b911f2e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-7cdafkqbajwbdefg8aad3acccf4ab8bkc4d1ipi> .
+<http://num.edu.mn/resource/organization/e5b6078af7408e0342ae4f133b911f2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/e5b6078af7408e0342ae4f133b911f2e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“ÐµÐ½Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ð»Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸"@mn .
+<http://num.edu.mn/resource/name/xn--___-7cdafkqbajwbdefg8aad3acccf4ab8bkc4d1ipi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-7cdafkqbajwbdefg8aad3acccf4ab8bkc4d1ipi> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“ÐµÐ½Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ð»Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸"@mn .
+<http://num.edu.mn/resource/organization/e5b6078af7408e0342ae4f133b911f2e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/4229bc3f9323ce05542078d7405e488a> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn---____-lwebe1aqbdhceukftdbdcgecc1a0i5cj1a1nmfw6m2tcagi> .
+<http://num.edu.mn/resource/organization/4229bc3f9323ce05542078d7405e488a> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð»-Ð¯Ð¿Ð¾Ð½Ñ‹ Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn---____-lwebe1aqbdhceukftdbdcgecc1a0i5cj1a1nmfw6m2tcagi> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð»-Ð¯Ð¿Ð¾Ð½Ñ‹ Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/4229bc3f9323ce05542078d7405e488a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/4229bc3f9323ce05542078d7405e488a> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/name/xn---____-lwebe1aqbdhceukftdbdcgecc1a0i5cj1a1nmfw6m2tcagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn---____-lwebe1aqbdhceukftdbdcgecc1a0i5cj1a1nmfw6m2tcagi> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ¾Ð½Ð³Ð¾Ð»-Ð¯Ð¿Ð¾Ð½Ñ‹ Ñ…Ò¯Ð½Ð¸Ð¹ Ð½Ó©Ó©Ñ†Ð¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-8kcahh3acckuaiv4cd6a3b6kc> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ£Ð˜Ð¡ Ñ…ÑÐ²Ð»ÑÐ»Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/246552371e1288f4705f0b6be8ddb883> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/246552371e1288f4705f0b6be8ddb883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/246552371e1288f4705f0b6be8ddb883> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ£Ð˜Ð¡ Ñ…ÑÐ²Ð»ÑÐ»Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/246552371e1288f4705f0b6be8ddb883> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-8kcahh3acckuaiv4cd6a3b6kc> .
+<http://num.edu.mn/resource/name/xn--__-8kcahh3acckuaiv4cd6a3b6kc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-8kcahh3acckuaiv4cd6a3b6kc> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ£Ð˜Ð¡ Ñ…ÑÐ²Ð»ÑÐ»Ð¸Ð¹Ð½ Ð³Ð°Ð·Ð°Ñ€"@mn .
+
+<http://num.edu.mn/resource/organization/2e053b56c0f699612f905dcbb7c4de23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2e053b56c0f699612f905dcbb7c4de23> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/2e053b56c0f699612f905dcbb7c4de23> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¾Ñ‚, Ð±Ò¯Ñ Ð½ÑƒÑ‚Ð³Ð¸Ð¹Ð½ Ñ…Ó©Ð³Ð¶Ð»Ð¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/dd14ae50a199d964fe37895d898c5316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/dd14ae50a199d964fe37895d898c5316> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-7cdaapeh2ajbbakfpxgwhh9f6aqq2c7kw3q0a> .
+<http://num.edu.mn/resource/organization/dd14ae50a199d964fe37895d898c5316> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/name/xn--___-7cdaapeh2ajbbakfpxgwhh9f6aqq2c7kw3q0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-7cdaapeh2ajbbakfpxgwhh9f6aqq2c7kw3q0a> <http://num.edu.mn/ontology#Entity_name> "Ð¦Ó©Ð¼Ð¸Ð¹Ð½ Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--___-7cdaapeh2ajbbakfpxgwhh9f6aqq2c7kw3q0a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¦Ó©Ð¼Ð¸Ð¹Ð½ Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/dd14ae50a199d964fe37895d898c5316> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¦Ó©Ð¼Ð¸Ð¹Ð½ Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ ÑÑƒÐ´Ð°Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcmctfeefxqgc7bk7ewgpaab56s> <http://num.edu.mn/ontology#Entity_name> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcmctfeefxqgc7bk7ewgpaab56s> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/5717f0397312ff56218ab7279a112508> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcmctfeefxqgc7bk7ewgpaab56s> .
+<http://num.edu.mn/resource/name/xn--__-7kcmctfeefxqgc7bk7ewgpaab56s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/5717f0397312ff56218ab7279a112508> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> .
+<http://num.edu.mn/resource/organization/5717f0397312ff56218ab7279a112508> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ…Ò¯Ñ€ÑÑÐ»ÑÐ½"@mn .
+<http://num.edu.mn/resource/organization/79303e58370c370402d4c4e1e66f7a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/5717f0397312ff56218ab7279a112508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--____-d4dgbb2burhbsbeibcibb9akfgn6a5exjocu9qdrc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð¾Ð»Ð¾Ð½Ð³Ð¾ÑÑ‹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð» Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/390888088dba202740d2afaf69425415> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/organization/390888088dba202740d2afaf69425415> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð¾Ð»Ð¾Ð½Ð³Ð¾ÑÑ‹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð» Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--____-d4dgbb2burhbsbeibcibb9akfgn6a5exjocu9qdrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--____-d4dgbb2burhbsbeibcibb9akfgn6a5exjocu9qdrc> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð¾Ð»Ð¾Ð½Ð³Ð¾ÑÑ‹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð» Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/390888088dba202740d2afaf69425415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/390888088dba202740d2afaf69425415> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-d4dgbb2burhbsbeibcibb9akfgn6a5exjocu9qdrc> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-0ddcaecbd9abeeb6b3ak5ch2ni36t> <http://num.edu.mn/ontology#Entity_name> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/46e81d2429cf126420b04c9672b3bfe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-0ddcaecbd9abeeb6b3ak5ch2ni36t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/46e81d2429cf126420b04c9672b3bfe7> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/name/xn--___-0ddcaecbd9abeeb6b3ak5ch2ni36t> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/46e81d2429cf126420b04c9672b3bfe7> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/46e81d2429cf126420b04c9672b3bfe7> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-0ddcaecbd9abeeb6b3ak5ch2ni36t> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/e66e7a5bd164ab536c094e8aef839e87> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/name/xn--___-edd1adedd6aeeb0b9ae7ahh4mi56s> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑƒÐ²Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/e66e7a5bd164ab536c094e8aef839e87> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑƒÐ²Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-edd1adedd6aeeb0b9ae7ahh4mi56s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/e66e7a5bd164ab536c094e8aef839e87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-edd1adedd6aeeb0b9ae7ahh4mi56s> <http://num.edu.mn/ontology#Entity_name> "Ð¥ÑƒÐ²Ð¸Ð¹Ð½ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/e66e7a5bd164ab536c094e8aef839e87> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-edd1adedd6aeeb0b9ae7ahh4mi56s> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b2be68e109ad31d63bf78cfcf8c097c5> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/organization/b2be68e109ad31d63bf78cfcf8c097c5> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b2be68e109ad31d63bf78cfcf8c097c5> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/b2be68e109ad31d63bf78cfcf8c097c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcbld7apbnwpnfomicl9n71l> <http://num.edu.mn/ontology#Entity_name> "ÐŸÑ€Ð°ÐºÑ‚Ð¸Ðº ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcbld7apbnwpnfomicl9n71l> <http://www.w3.org/2000/01/rdf-schema#label> "ÐŸÑ€Ð°ÐºÑ‚Ð¸Ðº ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/445412c6c6f428cbd48be282d3baf1b2> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/organization/445412c6c6f428cbd48be282d3baf1b2> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcbld7apbnwpnfomicl9n71l> .
+<http://num.edu.mn/resource/organization/445412c6c6f428cbd48be282d3baf1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcbld7apbnwpnfomicl9n71l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/445412c6c6f428cbd48be282d3baf1b2> <http://www.w3.org/2000/01/rdf-schema#label> "ÐŸÑ€Ð°ÐºÑ‚Ð¸Ðº ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+
+<http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/936eb0acbf0e7fabd463ea112521923e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/c6322879a58545e2ac1e26ea18e2db71> .
+<http://num.edu.mn/resource/name/xn--____-d4dgb9aswbpefdibbfxkv2a9c1ira1b2cw2rg6b> <http://num.edu.mn/ontology#Entity_name> "Ð¯Ð¿Ð¾Ð½Ñ‹ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð»Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/936eb0acbf0e7fabd463ea112521923e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-d4dgb9aswbpefdibbfxkv2a9c1ira1b2cw2rg6b> .
+<http://num.edu.mn/resource/name/xn--____-d4dgb9aswbpefdibbfxkv2a9c1ira1b2cw2rg6b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¯Ð¿Ð¾Ð½Ñ‹ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð»Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--____-d4dgb9aswbpefdibbfxkv2a9c1ira1b2cw2rg6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/936eb0acbf0e7fabd463ea112521923e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/936eb0acbf0e7fabd463ea112521923e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¯Ð¿Ð¾Ð½Ñ‹ ÑÑ€Ñ… Ð·Ò¯Ð¹Ð½ Ð±Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð»Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcbaarjbf7aipugogib9b5bmo1cl6m6b> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ Ñ…ÑƒÐ´Ð°Ð»Ð´Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/692bdebe0c47cb57db00458e00bd1fab> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ Ñ…ÑƒÐ´Ð°Ð»Ð´Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/692bdebe0c47cb57db00458e00bd1fab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/692bdebe0c47cb57db00458e00bd1fab> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcbaarjbf7aipugogib9b5bmo1cl6m6b> .
+<http://num.edu.mn/resource/name/xn--__-6kcbaarjbf7aipugogib9b5bmo1cl6m6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/692bdebe0c47cb57db00458e00bd1fab> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+<http://num.edu.mn/resource/name/xn--__-6kcbaarjbf7aipugogib9b5bmo1cl6m6b> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ Ñ…ÑƒÐ´Ð°Ð»Ð´Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kccielpieunvddl2ceve126a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kccielpieunvddl2ceve126a> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸Ð·Ð½ÐµÑ ÐºÐ¾Ð½ÑÐ°Ð»Ñ‚Ð¸Ð½Ð³ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/92215e499a81b2264c5431d6b42b78e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kccielpieunvddl2ceve126a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑ ÐºÐ¾Ð½ÑÐ°Ð»Ñ‚Ð¸Ð½Ð³ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/92215e499a81b2264c5431d6b42b78e0> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+<http://num.edu.mn/resource/organization/92215e499a81b2264c5431d6b42b78e0> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kccielpieunvddl2ceve126a> .
+<http://num.edu.mn/resource/organization/92215e499a81b2264c5431d6b42b78e0> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑ ÐºÐ¾Ð½ÑÐ°Ð»Ñ‚Ð¸Ð½Ð³ Ñ‚Ó©Ð²"@mn .
+
+<http://num.edu.mn/resource/organization/65fe2b84915b35572e92c2b870a8a48d> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/65fe2b84915b35572e92c2b870a8a48d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/65fe2b84915b35572e92c2b870a8a48d> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/65fe2b84915b35572e92c2b870a8a48d> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+
+<http://num.edu.mn/resource/organization/ed1f0795c22f0e18ac0028e84c22e619> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/ed1f0795c22f0e18ac0028e84c22e619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-itbaaenbgvdfdecb9ee9c4i> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐµÐ½ÐµÐ¶Ð¼ÐµÐ½Ñ‚Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/ed1f0795c22f0e18ac0028e84c22e619> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-itbaaenbgvdfdecb9ee9c4i> .
+<http://num.edu.mn/resource/organization/ed1f0795c22f0e18ac0028e84c22e619> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐµÐ½ÐµÐ¶Ð¼ÐµÐ½Ñ‚Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-itbaaenbgvdfdecb9ee9c4i> <http://num.edu.mn/ontology#Entity_name> "ÐœÐµÐ½ÐµÐ¶Ð¼ÐµÐ½Ñ‚Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-itbaaenbgvdfdecb9ee9c4i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/79761657d463bf02070d46a621733175> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> .
+<http://num.edu.mn/resource/organization/79761657d463bf02070d46a621733175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://num.edu.mn/ontology#Entity_name> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/79761657d463bf02070d46a621733175> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+<http://num.edu.mn/resource/organization/79761657d463bf02070d46a621733175> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--_-7sbjubexcdb0bt7ah2jv4ea> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbjubexcdb0bt7ah2jv4ea> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/6a45ab43e5e6ec2545c87f08c71cf8b3> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/25f2cc0603042191aff533208b8239fc> .
+<http://num.edu.mn/resource/organization/6a45ab43e5e6ec2545c87f08c71cf8b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbjubexcdb0bt7ah2jv4ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/6a45ab43e5e6ec2545c87f08c71cf8b3> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbjubexcdb0bt7ah2jv4ea> .
+<http://num.edu.mn/resource/organization/6a45ab43e5e6ec2545c87f08c71cf8b3> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/53a7f93f1e3d16774700ca4969294061> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/53a7f93f1e3d16774700ca4969294061> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/53a7f93f1e3d16774700ca4969294061> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/53a7f93f1e3d16774700ca4969294061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/c14959c12a08735b114272e227117457> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> .
+<http://num.edu.mn/resource/name/xn--___-7cdaa8cdtbdqccgbdb8bq5aj4cks6jl2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-7cdaa8cdtbdqccgbdb8bq5aj4cks6jl2d> <http://num.edu.mn/ontology#Entity_name> "ÐžÐ»Ð¾Ð½ ÑƒÐ»ÑÑ‹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/c14959c12a08735b114272e227117457> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÐ»Ð¾Ð½ ÑƒÐ»ÑÑ‹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-7cdaa8cdtbdqccgbdb8bq5aj4cks6jl2d> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÐ»Ð¾Ð½ ÑƒÐ»ÑÑ‹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/c14959c12a08735b114272e227117457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c14959c12a08735b114272e227117457> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-7cdaa8cdtbdqccgbdb8bq5aj4cks6jl2d> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcmdazacecb4asbehb4c7anm1d8h4b> <http://num.edu.mn/ontology#Entity_name> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑƒÐ´Ð¸Ñ€Ð´Ð»Ð°Ð³Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcmdazacecb4asbehb4c7anm1d8h4b> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑƒÐ´Ð¸Ñ€Ð´Ð»Ð°Ð³Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/1f5b333025c2de2f2bb07e32d72c99d7> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ñ‚Ð¸Ð¹Ð½ ÑƒÐ´Ð¸Ñ€Ð´Ð»Ð°Ð³Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcmdazacecb4asbehb4c7anm1d8h4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/1f5b333025c2de2f2bb07e32d72c99d7> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/427dedd32421e1a1df8119797a7737f9> .
+<http://num.edu.mn/resource/organization/1f5b333025c2de2f2bb07e32d72c99d7> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcmdazacecb4asbehb4c7anm1d8h4b> .
+<http://num.edu.mn/resource/organization/1f5b333025c2de2f2bb07e32d72c99d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kccurbcbf9adgeb9b4ag2dzgyb> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸ÐµÐ¸Ð¹Ð½ Ñ‚Ð°Ð¼Ð¸Ñ€Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/36662cd7a386db318fe61e1f8489ddbb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸ÐµÐ¸Ð¹Ð½ Ñ‚Ð°Ð¼Ð¸Ñ€Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/36662cd7a386db318fe61e1f8489ddbb> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kccurbcbf9adgeb9b4ag2dzgyb> .
+<http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kccurbcbf9adgeb9b4ag2dzgyb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kccurbcbf9adgeb9b4ag2dzgyb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸ÐµÐ¸Ð¹Ð½ Ñ‚Ð°Ð¼Ð¸Ñ€Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/36662cd7a386db318fe61e1f8489ddbb> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/517a80f2a4cc4fcd95213b5fb0a7f445> .
+<http://num.edu.mn/resource/organization/36662cd7a386db318fe61e1f8489ddbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_-etbbmgbedobxd6jvdaf66n> <http://www.w3.org/2000/01/rdf-schema#label> "Ò®Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð½ÑÐ³Ð¶"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-etbbmgbedobxd6jvdaf66n> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/2000/01/rdf-schema#label> "Ò®Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð½ÑÐ³Ð¶"@mn .
+<http://num.edu.mn/resource/name/xn--_-etbbmgbedobxd6jvdaf66n> <http://num.edu.mn/ontology#Entity_name> "Ò®Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð½ÑÐ³Ð¶"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> .
+<http://num.edu.mn/resource/organization/9b65b75fb4864747ea7a3671cacb53e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-etbbmgbedobxd6jvdaf66n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/organization/2ac4d10aeb843c622abc18b01a344932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2ac4d10aeb843c622abc18b01a344932> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://num.edu.mn/ontology#Entity_name> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/2ac4d10aeb843c622abc18b01a344932> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/2ac4d10aeb843c622abc18b01a344932> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> .
+
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b114e3cadc3721c1de38a1d15600e7ae> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b114e3cadc3721c1de38a1d15600e7ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/b114e3cadc3721c1de38a1d15600e7ae> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b114e3cadc3721c1de38a1d15600e7ae> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/56489090594b57d0d5c2354304631caf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/56489090594b57d0d5c2354304631caf> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/organization/56489090594b57d0d5c2354304631caf> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/56489090594b57d0d5c2354304631caf> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> .
+
+<http://num.edu.mn/resource/organization/17e98e353bf4295caec9e866c8268cc6> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/17e98e353bf4295caec9e866c8268cc6> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcam4aedpjjcedb3fm1ajg6j7an84ubaa> .
+<http://num.edu.mn/resource/organization/17e98e353bf4295caec9e866c8268cc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcam4aedpjjcedb3fm1ajg6j7an84ubaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kcam4aedpjjcedb3fm1ajg6j7an84ubaa> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcam4aedpjjcedb3fm1ajg6j7an84ubaa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/17e98e353bf4295caec9e866c8268cc6> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcacynhceg5beddb3d0ao4bg2k0b> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/ad7fa415d4310180bba0a88fd346e16e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/organization/ad7fa415d4310180bba0a88fd346e16e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcacynhceg5beddb3d0ao4bg2k0b> .
+<http://num.edu.mn/resource/name/xn--__-7kcacynhceg5beddb3d0ao4bg2k0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/ad7fa415d4310180bba0a88fd346e16e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/ad7fa415d4310180bba0a88fd346e16e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcacynhceg5beddb3d0ao4bg2k0b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð·Ð½ÐµÑÐ¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-6kcaapic1bbjwrjd3f1bh8lg> <http://num.edu.mn/ontology#Entity_name> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/5da4866fe474f5e61a5b23920cd34228> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcaapic1bbjwrjd3f1bh8lg> .
+<http://num.edu.mn/resource/name/xn--__-6kcaapic1bbjwrjd3f1bh8lg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/5da4866fe474f5e61a5b23920cd34228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/5da4866fe474f5e61a5b23920cd34228> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/5da4866fe474f5e61a5b23920cd34228> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/name/xn--__-6kcaapic1bbjwrjd3f1bh8lg> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/e1440d44a2feb794a6866502434290a1> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/organization/e1440d44a2feb794a6866502434290a1> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/e1440d44a2feb794a6866502434290a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/e1440d44a2feb794a6866502434290a1> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/f1c4832798c6622b2f9c0235822b8404> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> .
+<http://num.edu.mn/resource/organization/f1c4832798c6622b2f9c0235822b8404> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/f1c4832798c6622b2f9c0235822b8404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/f1c4832798c6622b2f9c0235822b8404> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://num.edu.mn/ontology#Entity_name> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/c091b841c42452b576227b2b6aeb9074> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> .
+<http://num.edu.mn/resource/organization/c091b841c42452b576227b2b6aeb9074> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> .
+<http://num.edu.mn/resource/organization/c091b841c42452b576227b2b6aeb9074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c091b841c42452b576227b2b6aeb9074> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://num.edu.mn/ontology#Entity_name> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/d1e4872d64cf45f398d7a40fa0346d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+
+<http://num.edu.mn/resource/organization/1a7cb5973052155513655e24e84dd1d0> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> .
+<http://num.edu.mn/resource/organization/1a7cb5973052155513655e24e84dd1d0> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/organization/1a7cb5973052155513655e24e84dd1d0> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/1a7cb5973052155513655e24e84dd1d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-43ddvf2aiebgf1ccfgb7dl1a7cr8poa24xa> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, ÑÐ´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-klccpcbdd2aechb8ae4b5bm4mi135a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/d2e46888e9f80ffbb903e99462288451> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/organization/d2e46888e9f80ffbb903e99462288451> <http://www.w3.org/2000/01/rdf-schema#label> "Ð•Ñ€Ó©Ð½Ñ…Ð¸Ð¹ ÑÑ€Ð´Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d2e46888e9f80ffbb903e99462288451> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-klccpcbdd2aechb8ae4b5bm4mi135a> .
+<http://num.edu.mn/resource/name/xn--__-klccpcbdd2aechb8ae4b5bm4mi135a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð•Ñ€Ó©Ð½Ñ…Ð¸Ð¹ ÑÑ€Ð´Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/d2e46888e9f80ffbb903e99462288451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-klccpcbdd2aechb8ae4b5bm4mi135a> <http://num.edu.mn/ontology#Entity_name> "Ð•Ñ€Ó©Ð½Ñ…Ð¸Ð¹ ÑÑ€Ð´Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/2fd7fbc9cabb3376b2643a5241caeddc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2fd7fbc9cabb3376b2643a5241caeddc> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> .
+<http://num.edu.mn/resource/organization/2fd7fbc9cabb3376b2643a5241caeddc> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://num.edu.mn/ontology#Entity_name> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ñ€Ð´ÑÐ¼ ÑˆÐ¸Ð½Ð¶Ð¸Ð»Ð³ÑÑ, Ð¸Ð½Ð½Ð¾Ð²Ð°Ñ†Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/2fd7fbc9cabb3376b2643a5241caeddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-73dbahfhjzzbdcr2akexhaeu1bzoqb6jcja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/organization/dd632ba56ba70d11b2d568863fa68163> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/dd632ba56ba70d11b2d568863fa68163> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/dd632ba56ba70d11b2d568863fa68163> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/dd632ba56ba70d11b2d568863fa68163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/671dee26f3e66a06a43ca8f9adef35ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/671dee26f3e66a06a43ca8f9adef35ba> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://num.edu.mn/ontology#Entity_name> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-5cdgbjfg7bbkrhtbdjbkb0c9alg1em0tg0b43y> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/671dee26f3e66a06a43ca8f9adef35ba> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/organization/671dee26f3e66a06a43ca8f9adef35ba> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÑÐ³Ñ‚Ð»Ð°Ð½ Ð±Ð¾Ð´Ð¾Ñ… Ð±Ò¯Ñ€Ñ‚Ð³ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/8c34ae5d56e24e186cf3e04548638c5a> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/8c34ae5d56e24e186cf3e04548638c5a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://num.edu.mn/ontology#Entity_name> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cddagk7eetluntdii8m6b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑƒÑ€Ð³Ð°Ð»Ñ‚, Ð¾ÑŽÑƒÑ‚Ð½Ñ‹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/8c34ae5d56e24e186cf3e04548638c5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/8c34ae5d56e24e186cf3e04548638c5a> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/organization/be639f733708a90d52327193b12429e9> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> .
+<http://num.edu.mn/resource/organization/a511113aff475b14d8903e0cd509f2b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/be639f733708a90d52327193b12429e9> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> .
+<http://num.edu.mn/resource/organization/be639f733708a90d52327193b12429e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/be639f733708a90d52327193b12429e9> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ…Ò¯Ò¯, Ñ…Ð°Ð½Ð³Ð°Ð¼Ð¶ Ò¯Ð¹Ð»Ñ‡Ð¸Ð»Ð³ÑÑÐ½Ð¸Ð¹ Ð°Ð»Ð±Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--___-43dcacajrc1b3abnd6abfjqdk7f8ec9d7ja431aak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/organization/c37de837a6280f484adc8aa581cfb7d7> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/c37de837a6280f484adc8aa581cfb7d7> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c37de837a6280f484adc8aa581cfb7d7> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/c37de837a6280f484adc8aa581cfb7d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcabababhp5dkd2ah2ad6dp1b7byj> .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-6kcabababhp5dkd2ah2ad6dp1b7byj> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ð¹Ð³Ð°Ð»Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ð¹Ð³Ð°Ð»Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcabababhp5dkd2ah2ad6dp1b7byj> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð°Ð¹Ð³Ð°Ð»Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcabababhp5dkd2ah2ad6dp1b7byj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcabagk8bbjc5aglgd3do9a5b5i> <http://num.edu.mn/ontology#Entity_name> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcabagk8bbjc5aglgd3do9a5b5i> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcabagk8bbjc5aglgd3do9a5b5i> .
+<http://num.edu.mn/resource/name/xn--__-7kcabagk8bbjc5aglgd3do9a5b5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcabagk9bktidoed0dn7a5aj9k9a15sbaa> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> .
+<http://num.edu.mn/resource/name/xn--__-7kcabagk9bktidoed0dn7a5aj9k9a15sbaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/b43d3f04841fc58b6e155df37be8b3f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcabagk9bktidoed0dn7a5aj9k9a15sbaa> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcabagk9bktidoed0dn7a5aj9k9a15sbaa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð¼Ò¯Ò¯Ð½Ð»ÑÐ³Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcamoseabdglgschdmb9b0cdg8cwa7qbcas> <http://num.edu.mn/ontology#Entity_name> "Ð¥ÑÑ€ÑÐ³Ð»ÑÑÐ½Ð¸Ð¹ Ð¼Ð°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/7d76c006ef6876cdf0dc35b01de8ad69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/7d76c006ef6876cdf0dc35b01de8ad69> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcamoseabdglgschdmb9b0cdg8cwa7qbcas> .
+<http://num.edu.mn/resource/organization/7d76c006ef6876cdf0dc35b01de8ad69> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑÑ€ÑÐ³Ð»ÑÑÐ½Ð¸Ð¹ Ð¼Ð°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/7d76c006ef6876cdf0dc35b01de8ad69> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcamoseabdglgschdmb9b0cdg8cwa7qbcas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-7kcamoseabdglgschdmb9b0cdg8cwa7qbcas> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥ÑÑ€ÑÐ³Ð»ÑÑÐ½Ð¸Ð¹ Ð¼Ð°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/294b0f913abe2cabdb7713934cc4f00d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/294b0f913abe2cabdb7713934cc4f00d> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/name/xn--___-c4dveahpedbmebnggazegccfbgfca7ct1c1a1gwa1e9hpc3ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-c4dveahpedbmebnggazegccfbgfca7ct1c1a1gwa1e9hpc3ag> <http://num.edu.mn/ontology#Entity_name> "Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð¸Ðº, Ñ…Ð¾Ð»Ð±Ð¾Ð¾Ð½Ñ‹ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-c4dveahpedbmebnggazegccfbgfca7ct1c1a1gwa1e9hpc3ag> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð¸Ðº, Ñ…Ð¾Ð»Ð±Ð¾Ð¾Ð½Ñ‹ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/294b0f913abe2cabdb7713934cc4f00d> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð¸Ðº, Ñ…Ð¾Ð»Ð±Ð¾Ð¾Ð½Ñ‹ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/294b0f913abe2cabdb7713934cc4f00d> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-c4dveahpedbmebnggazegccfbgfca7ct1c1a1gwa1e9hpc3ag> .
+
+<http://num.edu.mn/resource/name/xn--___-73daxk1aegjkamgimdbkxy0ckv8cg4oravbabxu> <http://num.edu.mn/ontology#Entity_name> "ÐœÑÐ´ÑÑÐ»ÑÐ», ÐºÐ¾Ð¼Ð¿ÑŒÑŽÑ‚ÐµÑ€Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/71c9fc47d49e39f870df6cd4b4114ede> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-73daxk1aegjkamgimdbkxy0ckv8cg4oravbabxu> .
+<http://num.edu.mn/resource/organization/71c9fc47d49e39f870df6cd4b4114ede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/71c9fc47d49e39f870df6cd4b4114ede> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÑÐ´ÑÑÐ»ÑÐ», ÐºÐ¾Ð¼Ð¿ÑŒÑŽÑ‚ÐµÑ€Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/71c9fc47d49e39f870df6cd4b4114ede> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/name/xn--___-73daxk1aegjkamgimdbkxy0ckv8cg4oravbabxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-73daxk1aegjkamgimdbkxy0ckv8cg4oravbabxu> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÑÐ´ÑÑÐ»ÑÐ», ÐºÐ¾Ð¼Ð¿ÑŒÑŽÑ‚ÐµÑ€Ð¸Ð¹Ð½ ÑƒÑ…Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_____-bof0baisddbdegvnazcfdccfbje4cho8ej0e7a6cp8sab0ag584b> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ò¯Ñ€ÑÑÐ»ÑÐ½ Ð±ÑƒÐ¹ Ð¾Ñ€Ñ‡Ð¸Ð½, Ð¾Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_____-bof0baisddbdegvnazcfdccfbje4cho8ej0e7a6cp8sab0ag584b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ñ€ÑÑÐ»ÑÐ½ Ð±ÑƒÐ¹ Ð¾Ñ€Ñ‡Ð¸Ð½, Ð¾Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/ccc82f3202d8df779a51fb074f238d3e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/organization/ccc82f3202d8df779a51fb074f238d3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_____-bof0baisddbdegvnazcfdccfbje4cho8ej0e7a6cp8sab0ag584b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/ccc82f3202d8df779a51fb074f238d3e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ñ€ÑÑÐ»ÑÐ½ Ð±ÑƒÐ¹ Ð¾Ñ€Ñ‡Ð¸Ð½, Ð¾Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/ccc82f3202d8df779a51fb074f238d3e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_____-bof0baisddbdegvnazcfdccfbje4cho8ej0e7a6cp8sab0ag584b> .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/43d0f7eb0fdf6bd818e7d7ae8b97b952> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/43d0f7eb0fdf6bd818e7d7ae8b97b952> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/43d0f7eb0fdf6bd818e7d7ae8b97b952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/43d0f7eb0fdf6bd818e7d7ae8b97b952> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/efa114a58a1e11fbe5644b2268d2b0d5> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ð¼Ð¸, Ð±Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/efa114a58a1e11fbe5644b2268d2b0d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-c4dmpahoadbbdbjg2aiagumccfbkb7etdtd4a5dwng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/efa114a58a1e11fbe5644b2268d2b0d5> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> .
+<http://num.edu.mn/resource/name/xn--___-c4dmpahoadbbdbjg2aiagumccfbkb7etdtd4a5dwng> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ð¼Ð¸, Ð±Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/efa114a58a1e11fbe5644b2268d2b0d5> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-c4dmpahoadbbdbjg2aiagumccfbkb7etdtd4a5dwng> .
+<http://num.edu.mn/resource/organization/2ec6cfb3aa8d211a2d1078dfbba96553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-c4dmpahoadbbdbjg2aiagumccfbkb7etdtd4a5dwng> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ð¼Ð¸, Ð±Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ð¸Ð½Ð¶ÐµÐ½ÐµÑ€Ñ‡Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--____-53dargod0adcadq0afihlhgeub4b4clk1fg2fxfscv98a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¨Ð¸Ð½Ñ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹Ð½ Ñ…Ð¸Ð¼Ð¸ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/76cae8549edca2a234e57ce8b6cd7fc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/76cae8549edca2a234e57ce8b6cd7fc3> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/name/xn--____-53dargod0adcadq0afihlhgeub4b4clk1fg2fxfscv98a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--____-53dargod0adcadq0afihlhgeub4b4clk1fg2fxfscv98a> <http://num.edu.mn/ontology#Entity_name> "Ð¨Ð¸Ð½Ñ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹Ð½ Ñ…Ð¸Ð¼Ð¸ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/76cae8549edca2a234e57ce8b6cd7fc3> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¨Ð¸Ð½Ñ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹Ð½ Ñ…Ð¸Ð¼Ð¸ Ñ‚ÐµÑ…Ð½Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/76cae8549edca2a234e57ce8b6cd7fc3> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-53dargod0adcadq0afihlhgeub4b4clk1fg2fxfscv98a> .
+
+<http://num.edu.mn/resource/organization/cb260ca188c66fac4eafe115032089c1> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-7sbatqabghpchkb9ddg9c4i> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbatqabghpchkb9ddg9c4i> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/cb260ca188c66fac4eafe115032089c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbatqabghpchkb9ddg9c4i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/cb260ca188c66fac4eafe115032089c1> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/organization/cb260ca188c66fac4eafe115032089c1> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbatqabghpchkb9ddg9c4i> .
+
+<http://num.edu.mn/resource/name/xn--_-mtbcbabfgwhb3dry2j> <http://num.edu.mn/ontology#Entity_name> "Ð¤Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-mtbcbabfgwhb3dry2j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-mtbcbabfgwhb3dry2j> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¤Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/0115cebe498321acd989b171e3c5fab9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/0115cebe498321acd989b171e3c5fab9> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/organization/0115cebe498321acd989b171e3c5fab9> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¤Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/0115cebe498321acd989b171e3c5fab9> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-mtbcbabfgwhb3dry2j> .
+
+<http://num.edu.mn/resource/name/xn--_-otbabdqefb3c0ai6h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/42a3e619217e87c5c7792fe589c1b455> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/organization/42a3e619217e87c5c7792fe589c1b455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/42a3e619217e87c5c7792fe589c1b455> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-otbabdqefb3c0ai6h> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-otbabdqefb3c0ai6h> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ð¼Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/42a3e619217e87c5c7792fe589c1b455> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-otbabdqefb3c0ai6h> .
+
+<http://num.edu.mn/resource/name/xn--_-9sbgtbbfnohbfb5d4b9h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/be873e48f7ca83586f2aacdd0d4dcfd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/be873e48f7ca83586f2aacdd0d4dcfd0> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-9sbgtbbfnohbfb5d4b9h> .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/be873e48f7ca83586f2aacdd0d4dcfd0> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-9sbgtbbfnohbfb5d4b9h> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/be873e48f7ca83586f2aacdd0d4dcfd0> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/name/xn--_-9sbgtbbfnohbfb5d4b9h> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--_-7sbakvbig3ahb5a4a7b1hx4e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð·Ð°Ñ€Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/c97e4a03ddf1d530427110a71cf20b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c97e4a03ddf1d530427110a71cf20b2e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð·Ð°Ñ€Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c97e4a03ddf1d530427110a71cf20b2e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbakvbig3ahb5a4a7b1hx4e> .
+<http://num.edu.mn/resource/organization/c97e4a03ddf1d530427110a71cf20b2e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/name/xn--_-7sbakvbig3ahb5a4a7b1hx4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-7sbakvbig3ahb5a4a7b1hx4e> <http://num.edu.mn/ontology#Entity_name> "Ð“Ð°Ð·Ð°Ñ€Ð·Ò¯Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/6622c5425ec7f7e033eb3e73afe50e95> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“ÐµÐ¾Ð»Ð¾Ð³Ð¸, Ð³ÐµÐ¾Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/6622c5425ec7f7e033eb3e73afe50e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/6622c5425ec7f7e033eb3e73afe50e95> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-iddackesfebabnoh6aqbfbg8hubyb1r> .
+<http://num.edu.mn/resource/name/xn--__-iddackesfebabnoh6aqbfbg8hubyb1r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/6622c5425ec7f7e033eb3e73afe50e95> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/925b7a6736f81574fc886c783239b6fb> .
+<http://num.edu.mn/resource/name/xn--__-iddackesfebabnoh6aqbfbg8hubyb1r> <http://num.edu.mn/ontology#Entity_name> "Ð“ÐµÐ¾Ð»Ð¾Ð³Ð¸, Ð³ÐµÐ¾Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-iddackesfebabnoh6aqbfbg8hubyb1r> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“ÐµÐ¾Ð»Ð¾Ð³Ð¸, Ð³ÐµÐ¾Ñ„Ð¸Ð·Ð¸ÐºÐ¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/organization/a5371b727140890cefc82574fab7369f> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ½Ñ‚Ñ€Ð¾Ð¿Ð¾Ð»Ð¾Ð³Ð¸, Ð°Ñ€Ñ…ÐµÐ¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/a5371b727140890cefc82574fab7369f> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-5cdcpdpxfbkrguclbfabgbmxk6bv1fl0w> .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a5371b727140890cefc82574fab7369f> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+<http://num.edu.mn/resource/organization/a5371b727140890cefc82574fab7369f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-5cdcpdpxfbkrguclbfabgbmxk6bv1fl0w> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ½Ñ‚Ñ€Ð¾Ð¿Ð¾Ð»Ð¾Ð³Ð¸, Ð°Ñ€Ñ…ÐµÐ¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-5cdcpdpxfbkrguclbfabgbmxk6bv1fl0w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--__-5cdcpdpxfbkrguclbfabgbmxk6bv1fl0w> <http://num.edu.mn/ontology#Entity_name> "ÐÐ½Ñ‚Ñ€Ð¾Ð¿Ð¾Ð»Ð¾Ð³Ð¸, Ð°Ñ€Ñ…ÐµÐ¾Ð»Ð¾Ð³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--___-73dchkk6byabdcbsobebb7bwfdwkv0ewj0bcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/fec353261d6cc45fc9e4eafa7213532a> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-73dchkk6byabdcbsobebb7bwfdwkv0ewj0bcm> .
+<http://num.edu.mn/resource/name/xn--___-73dchkk6byabdcbsobebb7bwfdwkv0ewj0bcm> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð», ÑÑÑ‚Ð³ÑÐ» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/fec353261d6cc45fc9e4eafa7213532a> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+<http://num.edu.mn/resource/organization/fec353261d6cc45fc9e4eafa7213532a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð», ÑÑÑ‚Ð³ÑÐ» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/fec353261d6cc45fc9e4eafa7213532a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-73dchkk6byabdcbsobebb7bwfdwkv0ewj0bcm> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð¾Ð»Ð¾Ð²ÑÑ€Ð¾Ð», ÑÑÑ‚Ð³ÑÐ» ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--_____-7nfaaw9bpacdeeb2afi0ajbegbkb4ek6apm0hk4a7qwb7a001bad> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑÑ‚Ð³Ò¯Ò¯Ð» Ð·Ò¯Ð¹, Ð¾Ð»Ð¾Ð½ Ð½Ð¸Ð¹Ñ‚Ð¸Ð¹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/bdbfa901f2e2468f337809e706065a75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/bdbfa901f2e2468f337809e706065a75> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡ÑÑ‚Ð³Ò¯Ò¯Ð» Ð·Ò¯Ð¹, Ð¾Ð»Ð¾Ð½ Ð½Ð¸Ð¹Ñ‚Ð¸Ð¹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/bdbfa901f2e2468f337809e706065a75> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+<http://num.edu.mn/resource/name/xn--_____-7nfaaw9bpacdeeb2afi0ajbegbkb4ek6apm0hk4a7qwb7a001bad> <http://num.edu.mn/ontology#Entity_name> "Ð¡ÑÑ‚Ð³Ò¯Ò¯Ð» Ð·Ò¯Ð¹, Ð¾Ð»Ð¾Ð½ Ð½Ð¸Ð¹Ñ‚Ð¸Ð¹Ð½ Ñ…Ð°Ñ€Ð¸Ð»Ñ†Ð°Ð°Ð½Ñ‹ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_____-7nfaaw9bpacdeeb2afi0ajbegbkb4ek6apm0hk4a7qwb7a001bad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/bdbfa901f2e2468f337809e706065a75> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_____-7nfaaw9bpacdeeb2afi0ajbegbkb4ek6apm0hk4a7qwb7a001bad> .
+
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-73doc0albcbehcxmmihgebdbb0f7b6ef9orc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð¾Ñ†Ð¸Ð¾Ð»Ð¾Ð³Ð¸, Ð½Ð¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ Ð°Ð¶Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/598b085bf9a90e160a1d529468b381a6> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+<http://num.edu.mn/resource/organization/598b085bf9a90e160a1d529468b381a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-73doc0albcbehcxmmihgebdbb0f7b6ef9orc> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð¾Ñ†Ð¸Ð¾Ð»Ð¾Ð³Ð¸, Ð½Ð¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ Ð°Ð¶Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/598b085bf9a90e160a1d529468b381a6> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-73doc0albcbehcxmmihgebdbb0f7b6ef9orc> .
+<http://num.edu.mn/resource/name/xn--___-73doc0albcbehcxmmihgebdbb0f7b6ef9orc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/598b085bf9a90e160a1d529468b381a6> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð¾Ñ†Ð¸Ð¾Ð»Ð¾Ð³Ð¸, Ð½Ð¸Ð¹Ð³Ð¼Ð¸Ð¹Ð½ Ð°Ð¶Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--___-7cdt0apdbmib5amdnjeh2cxhzb07y> <http://www.w3.org/2000/01/rdf-schema#label> "Ð£Ð»Ñ Ñ‚Ó©Ñ€ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/ee659bbc1c34466a4099ce7518fbee73> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-7cdt0apdbmib5amdnjeh2cxhzb07y> .
+<http://num.edu.mn/resource/organization/ee659bbc1c34466a4099ce7518fbee73> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/ee659bbc1c34466a4099ce7518fbee73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--___-7cdt0apdbmib5amdnjeh2cxhzb07y> <http://num.edu.mn/ontology#Entity_name> "Ð£Ð»Ñ Ñ‚Ó©Ñ€ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-7cdt0apdbmib5amdnjeh2cxhzb07y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/ee659bbc1c34466a4099ce7518fbee73> <http://www.w3.org/2000/01/rdf-schema#label> "Ð£Ð»Ñ Ñ‚Ó©Ñ€ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-7kcmctfebdf2begb2dwa9c5hoa> <http://num.edu.mn/ontology#Entity_name> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/dcfa87cb2f2a61269b9ff9d6f8b71098> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/dcfa87cb2f2a61269b9ff9d6f8b71098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/dcfa87cb2f2a61269b9ff9d6f8b71098> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcmctfebdf2begb2dwa9c5hoa> .
+<http://num.edu.mn/resource/name/xn--__-7kcmctfebdf2begb2dwa9c5hoa> <http://www.w3.org/2000/01/rdf-schema#label> "Ð­Ð´Ð¸Ð¹Ð½ Ð·Ð°ÑÐ³Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcmctfebdf2begb2dwa9c5hoa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/dcfa87cb2f2a61269b9ff9d6f8b71098> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/4b7262c260b956a402681f801408626f> .
+
+<http://num.edu.mn/resource/name/xn--___-63db1a1aade0ahbrifbfa6di3arlf8b4db3hzc> <http://num.edu.mn/ontology#Entity_name> "Ð¤Ð¸Ð»Ð¾ÑÐ¾Ñ„Ð¸, ÑˆÐ°ÑˆÐ¸Ð½ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/2371ecfc5d452a4cc98161561e661502> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-63db1a1aade0ahbrifbfa6di3arlf8b4db3hzc> .
+<http://num.edu.mn/resource/name/xn--___-63db1a1aade0ahbrifbfa6di3arlf8b4db3hzc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¤Ð¸Ð»Ð¾ÑÐ¾Ñ„Ð¸, ÑˆÐ°ÑˆÐ¸Ð½ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/2371ecfc5d452a4cc98161561e661502> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/organization/2371ecfc5d452a4cc98161561e661502> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¤Ð¸Ð»Ð¾ÑÐ¾Ñ„Ð¸, ÑˆÐ°ÑˆÐ¸Ð½ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--___-63db1a1aade0ahbrifbfa6di3arlf8b4db3hzc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2371ecfc5d452a4cc98161561e661502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/b4b9045632a08a00227543c696449607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/b4b9045632a08a00227543c696449607> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-otbbcrdb9aezg8g16da> .
+<http://num.edu.mn/resource/organization/b4b9045632a08a00227543c696449607> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/name/xn--_-otbbcrdb9aezg8g16da> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¢Ò¯Ò¯Ñ…Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/b4b9045632a08a00227543c696449607> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¢Ò¯Ò¯Ñ…Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-otbbcrdb9aezg8g16da> <http://num.edu.mn/ontology#Entity_name> "Ð¢Ò¯Ò¯Ñ…Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--_-otbbcrdb9aezg8g16da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--____-mwezpbbjqbcdafqcjfbec0jtcdn9e9gehg> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ñ…ÑÐ», Ñ…ÑÐ» ÑˆÐ¸Ð½Ð¶Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/9950359b17ccabbfb77828ad17931e55> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/organization/9950359b17ccabbfb77828ad17931e55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/9950359b17ccabbfb77828ad17931e55> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-mwezpbbjqbcdafqcjfbec0jtcdn9e9gehg> .
+<http://num.edu.mn/resource/name/xn--____-mwezpbbjqbcdafqcjfbec0jtcdn9e9gehg> <http://num.edu.mn/ontology#Entity_name> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ñ…ÑÐ», Ñ…ÑÐ» ÑˆÐ¸Ð½Ð¶Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--____-mwezpbbjqbcdafqcjfbec0jtcdn9e9gehg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/9950359b17ccabbfb77828ad17931e55> <http://www.w3.org/2000/01/rdf-schema#label> "ÐœÐ¾Ð½Ð³Ð¾Ð» Ñ…ÑÐ», Ñ…ÑÐ» ÑˆÐ¸Ð½Ð¶Ð»ÑÐ»Ð¸Ð¹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--____-3vedbufm4ani0bcebvrbhb5c3akwelg3cv7qvc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--____-3vedbufm4ani0bcebvrbhb5c3akwelg3cv7qvc> <http://num.edu.mn/ontology#Entity_name> "Ð£Ñ‚Ð³Ð° Ð·Ð¾Ñ…Ð¸Ð¾Ð», ÑƒÑ€Ð»Ð°Ð³ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--____-3vedbufm4ani0bcebvrbhb5c3akwelg3cv7qvc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð£Ñ‚Ð³Ð° Ð·Ð¾Ñ…Ð¸Ð¾Ð», ÑƒÑ€Ð»Ð°Ð³ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/765aa7e7f496fb8e860a555c0746df0e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð£Ñ‚Ð³Ð° Ð·Ð¾Ñ…Ð¸Ð¾Ð», ÑƒÑ€Ð»Ð°Ð³ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/765aa7e7f496fb8e860a555c0746df0e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-3vedbufm4ani0bcebvrbhb5c3akwelg3cv7qvc> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/765aa7e7f496fb8e860a555c0746df0e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/organization/765aa7e7f496fb8e860a555c0746df0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--____-4vecbd9aj3acbee3aubmkgnb0dj4aptx7b1a7qvc> <http://www.w3.org/2000/01/rdf-schema#label> "Ð˜Ñ… Ð‘Ñ€Ð¸Ñ‚Ð°Ð½Ð¸, ÐÐ¼ÐµÑ€Ð¸Ðº ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/a754ec2aaf5a2e989b650ca3b40c5858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/a754ec2aaf5a2e989b650ca3b40c5858> <http://www.w3.org/2000/01/rdf-schema#label> "Ð˜Ñ… Ð‘Ñ€Ð¸Ñ‚Ð°Ð½Ð¸, ÐÐ¼ÐµÑ€Ð¸Ðº ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--____-4vecbd9aj3acbee3aubmkgnb0dj4aptx7b1a7qvc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/a754ec2aaf5a2e989b650ca3b40c5858> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--____-4vecbd9aj3acbee3aubmkgnb0dj4aptx7b1a7qvc> .
+<http://num.edu.mn/resource/organization/a754ec2aaf5a2e989b650ca3b40c5858> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/name/xn--____-4vecbd9aj3acbee3aubmkgnb0dj4aptx7b1a7qvc> <http://num.edu.mn/ontology#Entity_name> "Ð˜Ñ… Ð‘Ñ€Ð¸Ñ‚Ð°Ð½Ð¸, ÐÐ¼ÐµÑ€Ð¸Ðº ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--__-7kcgld0avbmibfontxl0cyhyb> <http://num.edu.mn/ontology#Entity_name> "Ð•Ð²Ñ€Ð¾Ð¿ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/2e5a22ad1a6bdea6713db3f508f40a39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-7kcgld0avbmibfontxl0cyhyb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð•Ð²Ñ€Ð¾Ð¿ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-7kcgld0avbmibfontxl0cyhyb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/2e5a22ad1a6bdea6713db3f508f40a39> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-7kcgld0avbmibfontxl0cyhyb> .
+<http://num.edu.mn/resource/organization/2e5a22ad1a6bdea6713db3f508f40a39> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/2e5a22ad1a6bdea6713db3f508f40a39> <http://www.w3.org/2000/01/rdf-schema#label> "Ð•Ð²Ñ€Ð¾Ð¿ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+
+<http://num.edu.mn/resource/name/xn--__-6kcbtqheybnjb3cvj6bzgvb> <http://num.edu.mn/ontology#Entity_name> "ÐÐ·Ð¸ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/name/xn--__-6kcbtqheybnjb3cvj6bzgvb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/14fa6c895fd46fa1ffa486d6c63ccd32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/14fa6c895fd46fa1ffa486d6c63ccd32> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/name/xn--__-6kcbtqheybnjb3cvj6bzgvb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ·Ð¸ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/14fa6c895fd46fa1ffa486d6c63ccd32> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-6kcbtqheybnjb3cvj6bzgvb> .
+<http://num.edu.mn/resource/organization/14fa6c895fd46fa1ffa486d6c63ccd32> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ·Ð¸ ÑÑƒÐ´Ð»Ð°Ð»Ñ‹Ð½ Ñ‚ÑÐ½Ñ…Ð¸Ð¼"@mn .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/7822ddec34696861559712735dd3d921> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> .
+<http://num.edu.mn/resource/organization/7822ddec34696861559712735dd3d921> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--___-5cdaacrbfgc7co2af2ag7ctzcp5b4lpb246a> .
+<http://num.edu.mn/resource/name/xn--___-5cdaacrbfgc7co2af2ag7ctzcp5b4lpb246a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--___-5cdaacrbfgc7co2af2ag7ctzcp5b4lpb246a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/name/xn--___-5cdaacrbfgc7co2af2ag7ctzcp5b4lpb246a> <http://num.edu.mn/ontology#Entity_name> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/7822ddec34696861559712735dd3d921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/7822ddec34696861559712735dd3d921> <http://www.w3.org/2000/01/rdf-schema#label> "Ð“Ð°Ð´Ð°Ð°Ð´ Ñ…ÑÐ»Ð½Ð¸Ð¹ ÑÑƒÑ€Ð³Ð°Ð»Ñ‚Ñ‹Ð½ Ñ‚Ó©Ð²"@mn .
+<http://num.edu.mn/resource/organization/a3f7fbb24f95954584e846f9853ffb1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/e6f75ffe749036ba5d003cbabad83910> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð½ ÑÐ¼Ð½ÑÐ»Ð³Ð¸Ð¹Ð½ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--__-8kcaej9aipfekce4cl1d0ic86q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/e6f75ffe749036ba5d003cbabad83910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--__-8kcaej9aipfekce4cl1d0ic86q> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ò¯Ð½ ÑÐ¼Ð½ÑÐ»Ð³Ð¸Ð¹Ð½ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/e6f75ffe749036ba5d003cbabad83910> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/name/xn--__-8kcaej9aipfekce4cl1d0ic86q> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ò¯Ð½ ÑÐ¼Ð½ÑÐ»Ð³Ð¸Ð¹Ð½ ÑÐ°Ð»Ð±Ð°Ñ€"@mn .
+<http://num.edu.mn/resource/organization/e6f75ffe749036ba5d003cbabad83910> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--__-8kcaej9aipfekce4cl1d0ic86q> .
+
+<http://num.edu.mn/resource/name/xn--_-7sbbggt6cso> <http://num.edu.mn/ontology#Entity_name> "ÐÐ²Ñ‚Ð¾ Ð³Ñ€Ð°Ð¶"@mn .
+<http://num.edu.mn/resource/organization/ded4b11ac8ef2de3c90be36d65d732d1> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbbggt6cso> .
+<http://num.edu.mn/resource/organization/ded4b11ac8ef2de3c90be36d65d732d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/ded4b11ac8ef2de3c90be36d65d732d1> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbbggt6cso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-7sbbggt6cso> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ²Ñ‚Ð¾ Ð³Ñ€Ð°Ð¶"@mn .
+<http://num.edu.mn/resource/organization/ded4b11ac8ef2de3c90be36d65d732d1> <http://www.w3.org/2000/01/rdf-schema#label> "ÐÐ²Ñ‚Ð¾ Ð³Ñ€Ð°Ð¶"@mn .
+
+<http://num.edu.mn/resource/name/xn--_-7sbbbckcj4ad3az9ag5n> <http://num.edu.mn/ontology#Entity_name> "Ð‘Ð°Ñ€Ð¸Ð»Ð³Ñ‹Ð½ Ð±Ñ€Ð¸Ð³Ð°Ð´"@mn .
+<http://num.edu.mn/resource/organization/8bb321540880296d84254ae7571c4ca1> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ñ€Ð¸Ð»Ð³Ñ‹Ð½ Ð±Ñ€Ð¸Ð³Ð°Ð´"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/8bb321540880296d84254ae7571c4ca1> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbbbckcj4ad3az9ag5n> .
+<http://num.edu.mn/resource/organization/8bb321540880296d84254ae7571c4ca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbbbckcj4ad3az9ag5n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_-7sbbbckcj4ad3az9ag5n> <http://www.w3.org/2000/01/rdf-schema#label> "Ð‘Ð°Ñ€Ð¸Ð»Ð³Ñ‹Ð½ Ð±Ñ€Ð¸Ð³Ð°Ð´"@mn .
+<http://num.edu.mn/resource/organization/8bb321540880296d84254ae7571c4ca1> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+
+<http://num.edu.mn/resource/name/xn--_-7sbkgpahgybe3bkf0ch0lb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/0d0aaf59607a21b6e9192ba8809eba2d> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbkgpahgybe3bkf0ch0lb> .
+<http://num.edu.mn/resource/organization/0d0aaf59607a21b6e9192ba8809eba2d> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/0d0aaf59607a21b6e9192ba8809eba2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/0d0aaf59607a21b6e9192ba8809eba2d> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ¸Ð¹Ð½ Ñ…ÑÑÑÐ³"@mn .
+<http://num.edu.mn/resource/name/xn--_-7sbkgpahgybe3bkf0ch0lb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¡Ð°Ð½Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ¸Ð¹Ð½ Ñ…ÑÑÑÐ³"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbkgpahgybe3bkf0ch0lb> <http://num.edu.mn/ontology#Entity_name> "Ð¡Ð°Ð½Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ¸Ð¹Ð½ Ñ…ÑÑÑÐ³"@mn .
+
+<http://num.edu.mn/resource/name/xn--_1-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/09d987f3a6ff18ff911dcb20590c30fd> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/09d987f3a6ff18ff911dcb20590c30fd> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/09d987f3a6ff18ff911dcb20590c30fd> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_1-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/name/xn--_1-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_1-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/09d987f3a6ff18ff911dcb20590c30fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_2-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/36f4e67074e6988176c66b6bc233c8cc> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/36f4e67074e6988176c66b6bc233c8cc> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_2-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/organization/36f4e67074e6988176c66b6bc233c8cc> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_2-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/36f4e67074e6988176c66b6bc233c8cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_2-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--_3-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_3-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/6664bc263946ddf171c80925597ec365> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_3-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/organization/6664bc263946ddf171c80925597ec365> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/6664bc263946ddf171c80925597ec365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/6664bc263946ddf171c80925597ec365> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_3-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/organization/d14654d546896ec741d263750920e963> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/name/xn--_4-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/d14654d546896ec741d263750920e963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/d14654d546896ec741d263750920e963> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_4-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/organization/d14654d546896ec741d263750920e963> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_4-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_4-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--_5-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_5-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/dfb19a0761d019fa2b03ef692b6fda20> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_5-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/organization/dfb19a0761d019fa2b03ef692b6fda20> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/dfb19a0761d019fa2b03ef692b6fda20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_5-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/dfb19a0761d019fa2b03ef692b6fda20> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/name/xn--_6-_-83df1dzaiyeom8itb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/c15bbfa82291ce15fe2d9a6f23dbe37b> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/c15bbfa82291ce15fe2d9a6f23dbe37b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_6-_-83df1dzaiyeom8itb> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 6-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_6-_-83df1dzaiyeom8itb> <http://num.edu.mn/ontology#Entity_name> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 6-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/c15bbfa82291ce15fe2d9a6f23dbe37b> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_6-_-83df1dzaiyeom8itb> .
+<http://num.edu.mn/resource/organization/c15bbfa82291ce15fe2d9a6f23dbe37b> <http://www.w3.org/2000/01/rdf-schema#label> "ÐžÑŽÑƒÑ‚Ð½Ñ‹ 6-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/name/xn--_1-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_1-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_1-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/cd852aad9fa5d5bb95890023ec8ef292> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_1-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/cd852aad9fa5d5bb95890023ec8ef292> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 1-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/cd852aad9fa5d5bb95890023ec8ef292> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/cd852aad9fa5d5bb95890023ec8ef292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/organization/6ff89ea24d2ef5f2a5587921e7df6b9d> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/name/xn--_2-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/6ff89ea24d2ef5f2a5587921e7df6b9d> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_2-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/name/xn--_2-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/6ff89ea24d2ef5f2a5587921e7df6b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_2-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/6ff89ea24d2ef5f2a5587921e7df6b9d> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 2-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/name/xn--_3-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/6d9df8080bb7fe537569687ea7d4734e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/6d9df8080bb7fe537569687ea7d4734e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_3-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/name/xn--_3-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/6d9df8080bb7fe537569687ea7d4734e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_3-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 3-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/6d9df8080bb7fe537569687ea7d4734e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+
+<http://num.edu.mn/resource/name/xn--_4-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/02483e700cfcdf6a97c0bb637cd1c436> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/02483e700cfcdf6a97c0bb637cd1c436> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/02483e700cfcdf6a97c0bb637cd1c436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_4-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/02483e700cfcdf6a97c0bb637cd1c436> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_4-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/name/xn--_4-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 4-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/organization/063548772a6dbb43b6d8da6a11a49f8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/063548772a6dbb43b6d8da6a11a49f8b> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_5-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/name/xn--_5-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--_5-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/063548772a6dbb43b6d8da6a11a49f8b> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/name/xn--_5-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/063548772a6dbb43b6d8da6a11a49f8b> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 5-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+
+<http://num.edu.mn/resource/organization/8b12b8d71d54e62daaf2844e7ea8180a> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 7-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/organization/8b12b8d71d54e62daaf2844e7ea8180a> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/8b12b8d71d54e62daaf2844e7ea8180a> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_7-_-83df8bajgn0a6be5d7azha> .
+<http://num.edu.mn/resource/organization/8b12b8d71d54e62daaf2844e7ea8180a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_7-_-83df8bajgn0a6be5d7azha> <http://num.edu.mn/ontology#Entity_name> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 7-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_7-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð¸Ñ‡ÑÑÐ»Ð¸Ð¹Ð½ 7-Ñ€ Ð±Ð°Ð¹Ñ€"@mn .
+<http://num.edu.mn/resource/name/xn--_7-_-83df8bajgn0a6be5d7azha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+
+<http://num.edu.mn/resource/name/xn--_-7sbaand4ayv5bxbhd2f6ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/6fda97d8356ff399295a2ea89db2ade1> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¦Ð°Ñ…Ð¸Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÑÑÐ³"@mn .
+<http://num.edu.mn/resource/organization/6fda97d8356ff399295a2ea89db2ade1> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--_-7sbaand4ayv5bxbhd2f6ab> .
+<http://num.edu.mn/resource/name/xn--_-7sbaand4ayv5bxbhd2f6ab> <http://num.edu.mn/ontology#Entity_name> "Ð¦Ð°Ñ…Ð¸Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÑÑÐ³"@mn .
+<http://num.edu.mn/resource/organization/6fda97d8356ff399295a2ea89db2ade1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/6fda97d8356ff399295a2ea89db2ade1> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--_-7sbaand4ayv5bxbhd2f6ab> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¦Ð°Ñ…Ð¸Ð»Ð³Ð°Ð°Ð½Ñ‹ Ñ…ÑÑÑÐ³"@mn .
+
+<http://num.edu.mn/resource/name/xn--e-_-8cd2dfbce7a4h> <http://www.w3.org/2000/01/rdf-schema#label> "E-ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+<http://num.edu.mn/resource/name/xn--e-_-8cd2dfbce7a4h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/organization/f79be3c141ba2b24402a63fa4a7f4a2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/organization/f79be3c141ba2b24402a63fa4a7f4a2d> <http://www.w3.org/2000/01/rdf-schema#label> "E-ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+<http://num.edu.mn/resource/organization/f79be3c141ba2b24402a63fa4a7f4a2d> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--e-_-8cd2dfbce7a4h> .
+<http://num.edu.mn/resource/name/xn--e-_-8cd2dfbce7a4h> <http://num.edu.mn/ontology#Entity_name> "E-ÐÐ¾Ð¼Ñ‹Ð½ ÑÐ°Ð½"@mn .
+<http://num.edu.mn/resource/organization/f79be3c141ba2b24402a63fa4a7f4a2d> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/df5a978c2becf0d4b7c798719e1ab525> .
+
+<http://num.edu.mn/resource/organization/ec00d4d349aa942f2dcf90c8ba7c7c4e> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Name> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://www.w3.org/2000/01/rdf-schema#label> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/ec00d4d349aa942f2dcf90c8ba7c7c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Organization> .
+<http://num.edu.mn/resource/name/xn--80aaaksh0dwb> <http://num.edu.mn/ontology#Entity_name> "Ð—Ð°Ñ…Ð¸Ñ€Ð³Ð°Ð°"@mn .
+<http://num.edu.mn/resource/organization/ec00d4d349aa942f2dcf90c8ba7c7c4e> <http://num.edu.mn/ontology#has_name> <http://num.edu.mn/resource/name/xn--80aaaksh0dwb> .
+<http://num.edu.mn/resource/organization/ec00d4d349aa942f2dcf90c8ba7c7c4e> <http://num.edu.mn/ontology#part_of> <http://num.edu.mn/resource/organization/0307e935b88c9d28e8bb22ef356cc4aa> .
